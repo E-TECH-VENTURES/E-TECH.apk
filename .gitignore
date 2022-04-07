@@ -1,2 +1,12 @@
-# Google App Engine generated folder
-appengine-generated/
+.cache/
+*.pyc
+.sconsign.dblite
+.vscode/
+.mypy_cache/
+__pycache__/
+_attic/
+build/
+build-docker/
+emu.config
+compile_commands.json
+tests/trezor_monero_tests{,.log}
